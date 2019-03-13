@@ -3,3 +3,4 @@ changes2
 what is your name 
 how old are you
 which class are you
+ cate eats spolt food
